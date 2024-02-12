@@ -4,4 +4,6 @@ seaborn
 scikit-learn
 matplotlib
 xgboost
+dill
+dataclasses
 #-e .
